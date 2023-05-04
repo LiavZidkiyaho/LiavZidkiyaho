@@ -1,7 +1,7 @@
 ### 👨‍💻 Liav Zidkiyaho 
 
 <!--
-**LiavZidkiyaho/LiavZidkiyaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student in ORT Psagot High School / Programing Student in Magshimin Cyber **
 
 Here are some ideas to get you started:
 
