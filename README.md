@@ -1,7 +1,7 @@
 ### 👨‍💻 Liav Zidkiyaho 
 
 <!--
-**Student in ORT Psagot High School / Programing Student in Magshimin Cyber **
+**'Student in ORT Psagot High School / Programing Student in Magshimin Cyber'**
 
 Here are some ideas to get you started:
 
