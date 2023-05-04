@@ -14,7 +14,7 @@ I'm an High School student that going through a Cyber education and interested i
   </a>
 </p>
 <hr>
-<p> Programing in: <br><br>
+<p> Programing Languages: <br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a>
