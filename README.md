@@ -9,9 +9,6 @@ I'm an High School student that going through a Cyber education and interested i
   <a href="https://www.instagram.com/liav.zidkiyaho/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/LiavZidkiyaho">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
 </p>
 <hr>
 <p> Programing Languages: <br><br>
