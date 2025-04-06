@@ -7,25 +7,56 @@ I'm an High School student that going through a Cyber education and interested i
 
 <p>
   <a href="https://www.instagram.com/liav.zidkiyaho/">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://github.com/LelouchFR/skill-icons/blob/main/assets/assembly.svg)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     
   </a>
 </p>
 <hr>
 <p> Programing Languages: <br><br>
   <a href="#">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/assembly.svg">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/c.svg">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cpp.svg">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cs.svg">
+  </a>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg">
   </a>
 </p>
+
+<p> IDE's: <br><br>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clion-auto.svg">
+  </a>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pycharm-auto.svg">
+  </a>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/visualstudio-auto.svg">
+  </a>
+</p>
+
+<p> Tools: <br><br>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cmake-auto.svg">
+  </a>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dotnet.svg">
+  </a>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/photoshop.svg">
+  </a>
+  <a href="#">
+    <img witdh="50" height="50" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlite.svg">
+  </a>
+</p>
+
 <hr>
 <p>My GitHub Stats: <br><br>
 <a href="http://www.github.com/LiavZidkiyaho">
