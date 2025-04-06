@@ -7,7 +7,8 @@ I'm an High School student that going through a Cyber education and interested i
 
 <p>
   <a href="https://www.instagram.com/liav.zidkiyaho/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://github.com/LelouchFR/skill-icons/blob/main/assets/assembly.svg)">
+    
   </a>
 </p>
 <hr>
