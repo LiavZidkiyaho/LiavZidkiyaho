@@ -60,6 +60,6 @@ I'm an High School student that going through a Cyber education and interested i
 <hr>
 <p>My GitHub Stats: <br><br>
 <a href="http://www.github.com/LiavZidkiyaho">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiavZidkiyaho&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="LiavZidkiyaho's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LiavZidkiyaho&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 </p>
